@@ -23,7 +23,7 @@ The notebook is designed as a foundation for future machine learning and AI work
 
 ---
 
-## How to Run the Project
+## How to Run data_workflow.ipynb
 
 ### Install dependencies
 
@@ -40,6 +40,9 @@ The requirements file was generated using:
 3. Run all cells from top to bottom
 
 The notebook executes without hidden state and reproduces the full workflow.
+
+#### Optional (Google Colab only):
+If running in Colab with Google Drive storage, uncomment the setup cell at the top of the notebook.
 
 ---
 
